@@ -4,4 +4,3 @@ public interface Carta {
     String getNombre();
     String getTipo();
 }
-
